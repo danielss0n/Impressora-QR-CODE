@@ -7,4 +7,4 @@ O usuário informa o número do material, número da ordem e número do projeto
 - Após isso, a etiqueta.xlsx é imprimida por quantas vezes o usuário informou (máx 10)
 
 ![image](https://github.com/danielss0n/Impressora-QR-CODE/assets/82897131/77960808-68f6-4ce1-81e9-675accf1b0d1)
-![image](https://github.com/danielss0n/Impressora-QR-CODE/assets/82897131/5d6f4fc5-8b9a-4ef6-9290-c7921eee0b2d)
+![image](https://github.com/danielss0n/Impressora-QR-CODE/assets/82897131/d1742326-4806-47a8-8f39-e1a26c66a8b6)

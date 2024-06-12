@@ -1,4 +1,4 @@
-Programa para a seção da liberação imprimir etiquetas automáticamente
+Programa para a liberação do departamento imprimir etiquetas automáticamente para colar nas peças
 
 O usuário informa o número do material, número da ordem e número do projeto
 
